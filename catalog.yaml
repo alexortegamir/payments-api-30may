@@ -10,6 +10,6 @@ projects:
     tags:
       - logistics
       - commercee
-      -training
+      - training
     documentation:
       Home: home.md
