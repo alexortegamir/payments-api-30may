@@ -9,6 +9,7 @@ projects:
       email: 'andres.email@flexcompany.com'
     tags:
       - logistics
-      - commerce
+      - commercee
+      -training
     documentation:
       Home: home.md
